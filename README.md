@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Same Wave
 
 The cool and quirky conversation starter or when you want to find out if you and your partner agrees on something.
@@ -113,3 +114,7 @@ The site is optimized for search engines with structured data and semantic marku
 We use Google Analytics 4 with a privacy-first approach. The analytics script only loads after users accept cookies through the consent banner. User preferences are stored in localStorage and remembered across sessions. If users reject tracking, all Google Analytics cookies are removed and the script won't load. Users can change their preference anytime using the cookie settings button. During development, the system uses test cookies instead of real analytics.
 
 Create by Group 2 (Team 2). Link to live version: [https://aquamarine-cascaron-d4bd3d.netlify.app](https://aquamarine-cascaron-d4bd3d.netlify.app).
+=======
+# samewave-compatibility-quiz
+Group project where I contributed to the JavaScript logic and UI structure.
+>>>>>>> 364c90e5ffe6c88d0d4733efb294c11dcab649e4
